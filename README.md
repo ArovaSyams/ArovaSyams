@@ -1,4 +1,5 @@
 ### Hi there 👋
+![MuaKissGIF](https://github.com/ArovaSyams/ArovaSyams/assets/56685562/45d7b146-1abc-42ff-939e-d220183d62c5)
 
 <!--
 **ArovaSyams/ArovaSyams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
