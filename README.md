@@ -5,7 +5,7 @@
 - 💬 Ask me about Laravel, TailwindCSS, React, Next.JS
 - 📫 How to reach me: wifqoarova17@gmail.com
 
-##🖥️My previous project
+## 🖥️My previous project
 - Promptopia : https://promptopia-ten-xi.vercel.app/
 - OnLearn : https://on-learn.vercel.app/
 
