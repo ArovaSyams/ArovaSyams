@@ -6,8 +6,9 @@
 - 📫 How to reach me: wifqoarova17@gmail.com
 
 ### 🖥️My previous publishable project
-- Promptopia : https://promptopia-ten-xi.vercel.app/
-- OnLearn : https://on-learn.vercel.app/
+- Car Showcase: https://car-showcase-git-master-arovasyams.vercel.app/
+- OnLearn: https://on-learn-git-main-arovasyams.vercel.app/
+- Promptopia: https://promptopia-git-master-arovasyams.vercel.app/
 
 
 <!--
