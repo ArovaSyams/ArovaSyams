@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning PHP & JavaScript/TypeScript, Node.js Framework, React, NEXT.JS
-- 🤔 I’m looking for help for next to learn with  Data Analyst, Data Science, Machine Learning, Deep Learning, AI
+- 🌱 I’m currently learning PHP & JavaScript/TypeScript, Node.js Framework, React, NEXT.JS, Python
+- 🤔 I’m looking for help for next to learn with Python, Data Analyst, Data Science, Machine Learning, Deep Learning, AI
 - 💬 Ask me about Laravel, TailwindCSS, React, Next.JS
 - 📫 How to reach me: wifqoarova17@gmail.com
 
