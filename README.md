@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning PHP & JavaScript/TypeScript, Node.js Framework, React, NEXT.JS, Python
+- 🌱 I’m currently learning Python, Data Analyst, Data Science, Machine Learning, Deep Learning, AI
 - 🤔 I’m looking for help for next to learn with Python, Data Analyst, Data Science, Machine Learning, Deep Learning, AI
-- 💬 Ask me about Laravel, TailwindCSS, React, Next.JS
+- 💬 Ask me about Laravel, TailwindCSS, React, Next.JS, PHP, JavaScript, React & Python
 - 📫 How to reach me: wifqoarova17@gmail.com
 
 ### 🖥️My previous publishable project
